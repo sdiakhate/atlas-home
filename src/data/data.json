@@ -1,0 +1,90 @@
+[
+  {
+    "id": 0,
+    "title": "Maison de luxe",
+    "description": "Magnifique maison de luxe située en périphérie de Paris",
+    "price": "600000€",
+    "image": "https://images.pexels.com/photos/1115804/pexels-photo-1115804.jpeg",
+    "category": ["maison", "vente"]
+  },
+  {
+    "id": 1,
+    "title": "Appartement de luxe",
+    "description": "Appartement de luxe près de la plage",
+    "price": "750000€",
+    "image": "https://images.pexels.com/photos/2030037/pexels-photo-2030037.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "category": ["appartement", "vente"]
+  },
+  {
+    "id": 2,
+    "title": "Villa",
+    "description": "Magnifique villa près de la plage Mansouri",
+    "price": "1200000€",
+    "image": "https://images.pexels.com/photos/2587054/pexels-photo-2587054.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "category": ["villa", "vente"]
+  },
+  {
+    "id": 3,
+    "title": "Appartement chic",
+    "description": "Appartement en quartier résidentiel sur Paris",
+    "price": "1500€",
+    "image": "https://images.pexels.com/photos/2090651/pexels-photo-2090651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "category": ["appartement", "location"]
+  },
+  {
+    "id": 4,
+    "title": "Maison chic",
+    "description": "Maison rénovée en France",
+    "price": "250000€",
+    "image": "https://images.pexels.com/photos/1029599/pexels-photo-1029599.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "category": ["maison", "vente"]
+  },
+  {
+    "id": 5,
+    "title": "Maison stylisée",
+    "description": "Maison en location au coeur d'un quartier résidentiel en France",
+    "price": "2500€",
+    "image": "https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "category": ["maison", "location"]
+  },
+  {
+    "id": 6,
+    "title": "Sublime villa",
+    "description": "Sublime villa au bord de l'eau à Miami",
+    "price": "3000000€",
+    "image": "https://images.pexels.com/photos/1438834/pexels-photo-1438834.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "category": ["villa", "vente"]
+  },
+  {
+    "id": 7,
+    "title": "Villa",
+    "description": "Villa Berlinoise neuve",
+    "price": "2500000€",
+    "image": "https://images.pexels.com/photos/8082328/pexels-photo-8082328.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "category": ["villa", "vente"]
+  },
+  {
+    "id": 8,
+    "title": "Maison stylisée",
+    "description": "Magnifique maison style moderne",
+    "price": "500000€",
+    "image": "https://images.pexels.com/photos/1974596/pexels-photo-1974596.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "category": ["maison", "vente"]
+  },
+  {
+    "id": 9,
+    "title": "Appartement spatieux",
+    "description": "Appartement spatieux en province française",
+    "price": "1000€",
+    "image": "https://images.pexels.com/photos/2079246/pexels-photo-2079246.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "category": ["appartement", "location"]
+  },
+  {
+    "id": 10,
+    "title": "Appartement de luxe",
+    "description": "Appartement de luxe en plein coeur de Malaga",
+    "price": "1000000€",
+    "image": "https://images.pexels.com/photos/7534561/pexels-photo-7534561.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "category": ["appartement", "vente"]
+  }
+]

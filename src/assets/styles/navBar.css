@@ -1,0 +1,16 @@
+header {
+  background-color: var(--primary);
+  justify-content: space-between;
+  box-shadow: var(--box-shadow);
+}
+header img {
+  border-radius: 10px;
+  width: 95px;
+  height: 80px;
+}
+header p {
+  font-size: 64px;
+  letter-spacing: 12px;
+  font-family: "Italianno", cursive;
+  margin: 0;
+}

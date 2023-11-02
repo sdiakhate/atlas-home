@@ -1,0 +1,9 @@
+.cardList {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 30px;
+  background-color: #30475e;
+  color: aliceblue;
+  padding: 40px 0;
+}
